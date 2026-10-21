@@ -6,4 +6,4 @@
 -Student d: JEMELYN PAJARILLO -workflow guide
 -Student e: ZHE JAY PACTAO -testing
 ##Goal
-Practice  each commit and review each other work
+Practice  each commit and review each
