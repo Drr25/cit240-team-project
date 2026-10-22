@@ -56,6 +56,7 @@ git checkout -b conflict-practice-<your-name>
 
 Modify the Status line above, commit your changes, and push your branch.
 
- teammate modify the same line on main or another branch.
+ .
+  teammate modify the same line on main or another branch.
 
 Open a Pull Request or attempt to merge to trigger and practice resolving the merge conflict.
