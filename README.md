@@ -45,7 +45,7 @@ Right-click index.html in the file explorer and click Open with Live Server.
 
 The status line below is intended as a deliberate conflict target for team practice:
 
-Status: Practice each commit and review each pull request.
+ Practice each commit and review each pull request.
 
 How to Practice Conflict :
 
