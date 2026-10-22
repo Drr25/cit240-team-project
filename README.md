@@ -47,11 +47,11 @@ The status line below is intended as a deliberate conflict target for team pract
 
 Status: Practice each commit and review each pull request.
 
-How to Practice Conflict Resolution:
+How to Practice Conflict :
 
 Create and checkout a new feature branch:
 
-git checkout -b conflict-practice-<your-name>
+git Checkout -b conflict-practice-<your-name>
 
 
 Modify the Status line above, commit your changes, and push your branch.
