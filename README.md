@@ -49,7 +49,7 @@ The status line below is intended as a deliberate conflict target for team pract
 
 How to Practice Conflict :
 
-Create and checkout a new feature branch:
+Create and checkout new feature branch:
 
 git Checkout -b conflict-practice-<your-name>
 
